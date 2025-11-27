@@ -65,7 +65,7 @@ git clone https://github.com/SdIshtiyaqAhmed/fruit-spoilage-prediction-iot-ml.gi
 ## Acknowledgments
 
 This project’s code and documentation were generated using Google Colab’s Gemini AI feature.  
-Gratitude to Nshekanabo Marius and Stanley Mugisha for the dataset that underpins this work.
+Thanks to Nshekanabo Marius and Stanley Mugisha for the dataset that enables this work.
 
 ## License
 
