@@ -16,18 +16,12 @@ This project uses machine learning to predict fruit spoilage by analyzing enviro
 
 ## Dataset
 
-The dataset is publicly available and sourced from:
+The dataset used in this project is referenced as:
 
-[A Multi-Parameter Dataset for ML-Based Fruit Spoilage Prediction](https://data.mendeley.com/datasets/czz68d9fwj/1)
+**"A Multi-Parameter Dataset for Machine Learning Based Fruit Spoilage Prediction in an IoT-Enabled Cold Storage System"**  
+Authors: Nshekanabo Marius, Stanley Mugisha  
 
-It contains 10,996 entries with the following features:
-
-- Fruit type (e.g., Orange, Pineapple, Banana, Tomato)  
-- Temperature (°C)  
-- Relative Humidity (%)  
-- Light Intensity (Lux)  
-- CO₂ Concentration (ppm)  
-- Spoilage classification label ("Good" or "Bad")
+This dataset contains environmental data points collected in a controlled cold storage environment. It includes features such as fruit type, temperature, humidity, light intensity, CO₂ concentration, and a spoilage classification label (Good/Bad).
 
 ## Project Workflow
 
@@ -44,8 +38,8 @@ The trained model achieves near-perfect accuracy in classifying spoilage risk an
 
 ## Usage Instructions
 
-- Clone the repo to your local machine  
-- Download the dataset from the provided link  
+- Clone the repository to your local machine  
+- Obtain the dataset by searching the title "A Multi-Parameter Dataset for Machine Learning Based Fruit Spoilage Prediction in an IoT-Enabled Cold Storage System" by Nshekanabo Marius and Stanley Mugisha  
 - Follow the step-by-step implementation and analysis documented in the Jupyter notebook `fruit_spoilage_prediction_iot_ml.ipynb`
 
 ## Acknowledgments
