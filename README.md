@@ -4,24 +4,24 @@
 
 ## Project Overview
 
-This project uses machine learning to predict fruit spoilage by analyzing environmental sensor data—temperature, humidity, light intensity, and CO₂ concentration—collected from an IoT-enabled cold storage system. It aims to help smallholder farmers and supply chain stakeholders proactively manage storage conditions to reduce post-harvest loss and support sustainable agriculture.
+This project uses machine learning to predict fruit spoilage by analyzing environmental sensor data—temperature, humidity, light intensity, and CO₂ concentration—collected from an IoT-enabled cold storage system. It helps smallholder farmers and supply chain stakeholders proactively manage storage conditions to reduce post-harvest loss and support sustainable agriculture.
 
 ## Ethical Considerations
 
 - Designed to promote food security and minimize waste.  
-- Avoids use of harmful or inappropriate content.  
+- Avoids harmful or inappropriate content.  
 - Supports sustainable agriculture and social welfare.  
 - Respects privacy and responsible data usage.  
 - Encourages responsible AI and IoT application for societal benefit.
 
 ## Dataset
 
-The dataset used in this project is referenced as:
+The dataset used in this project is included in this repository as `Dataset.csv`.  
+It contains environmental data points collected in a controlled cold storage environment, including fruit type, temperature (°C), relative humidity (%), light intensity (Lux), CO₂ concentration (ppm), and spoilage classification labels (Good/Bad).
 
+Original dataset title:  
 **"A Multi-Parameter Dataset for Machine Learning Based Fruit Spoilage Prediction in an IoT-Enabled Cold Storage System"**  
-Authors: Nshekanabo Marius, Stanley Mugisha  
-
-This dataset contains environmental data points collected in a controlled cold storage environment. It includes features such as fruit type, temperature, humidity, light intensity, CO₂ concentration, and a spoilage classification label (Good/Bad).
+Authors: Nshekanabo Marius, Stanley Mugisha
 
 ## Project Workflow
 
@@ -38,8 +38,8 @@ The trained model achieves near-perfect accuracy in classifying spoilage risk an
 
 ## Usage Instructions
 
-- Clone the repository to your local machine  
-- Obtain the dataset by searching the title "A Multi-Parameter Dataset for Machine Learning Based Fruit Spoilage Prediction in an IoT-Enabled Cold Storage System" by Nshekanabo Marius and Stanley Mugisha  
+- Clone this repository  
+- Use the dataset file `Dataset.csv` included in the repo  
 - Follow the step-by-step implementation and analysis documented in the Jupyter notebook `fruit_spoilage_prediction_iot_ml.ipynb`
 
 ## Acknowledgments
