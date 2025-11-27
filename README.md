@@ -51,3 +51,20 @@ Authors: Nshekanabo Marius, Stanley Mugisha
 ## Usage Instructions
 
 - Clone this repository to your local machine:  
+git clone https://github.com/SdIshtiyaqAhmed/fruit-spoilage-prediction-iot-ml.git
+- The required dataset is included as `Dataset.csv` in the repository.  
+- Run and explore the `fruit_spoilage_prediction_iot_ml.ipynb` Jupyter notebook, which contains the full implementation, exploratory analysis, model training, evaluation, and visualization steps.  
+- The trained model is saved as `fruit_spoilage_model.joblib` for direct use or further testing.
+
+## Acknowledgments
+
+This project’s code and documentation were generated with the assistance of Google Colab’s Gemini AI.  
+Special thanks to Nshekanabo Marius and Stanley Mugisha for creating the dataset enabling this work.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Contributing to sustainable food preservation and responsible technology for social good.
