@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project uses machine learning to predict fruit spoilage by analyzing environmental sensor data—temperature, humidity, light intensity, and CO₂ concentration—collected from an IoT-enabled cold storage system. It aims to help smallholder farmers and supply chain stakeholders proactively manage storage conditions to reduce post-harvest loss and support sustainable agriculture.
+This project uses machine learning to predict fruit spoilage by analyzing environmental sensor data—temperature, humidity, light intensity, and CO₂ concentration—collected from an IoT-enabled cold storage system. It aims to help smallholder farmers and supply chain stakeholders proactively manage storage conditions to reduce post-harvest loss and support sustainable agriculture. The model focuses on predicting spoilage for three fruit types: Orange, Pineapple, and Banana, using environmental sensor data collected in controlled cold storage conditions.
 
 ## Ethical Considerations
 
